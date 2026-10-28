@@ -180,7 +180,7 @@ ALL 8 STATISTICAL UNIT TESTS PASSED SUCCESSFULLY!
 **Jay Sanjay**  
 * GitHub: [@jay-sanajay](https://github.com/jay-sanajay)  
 * Repository: [https://github.com/jay-sanajay/ecommerce-ab-testing-engine](https://github.com/jay-sanajay/ecommerce-ab-testing-engine)  
-* Email: *sanajay@example.com*
+* Email: *jaytakalgavankar@gmail.com*
 
 ---
 *Developed as an advanced experimentation portfolio project demonstrating statistical rigor, product acumen, and business impact for top e-commerce analytics teams.*
